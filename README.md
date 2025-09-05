@@ -5,7 +5,8 @@ I am an aspiring Junior Frontend Developer. I create practical projects using HT
 I completed the JavaScript Developer bootcamp, covering:
 
 - 📝 Advanced HTML and CSS
-- 🎨 Sass & Responsive Web Design (RWD)
+- 🎨 Sass 
+- 📱 Responsive Web Design (RWD)
 - 💻 JavaScript & ECMAScript 6
 - ⚛️ React
 
