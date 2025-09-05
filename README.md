@@ -1,7 +1,7 @@
 # 👩‍💻 Junior Frontend Developer
 
 # About ME
-I am an aspiring Junior Frontend Developer. I create practical projects using HTML, CSS, Sass, JavaScript and React.  
+I am an aspiring Junior Frontend Developer. I create practical projects using HTML, CSS, Sass, RWD, JavaScript and React.  
 I completed the JavaScript Developer bootcamp, covering:
 
 - 📝 Advanced HTML and CSS
